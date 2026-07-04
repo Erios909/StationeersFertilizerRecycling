@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecycleRecipes>
+    <RecipeData>
+      <PrefabName>Fertilizer</PrefabName>
+      <Recipe>
+        <Biomass>4</Biomass>
+        <Time>1</Time>
+        <Energy>400</Energy>
+      </Recipe>
+    </RecipeData>
+  </RecycleRecipes>
+</GameData>

@@ -23,7 +23,9 @@ The Composter processes three organic items to produce one Fertilizer, so a 1:2 
 [*]No base-game files are modified; the mod only adds one recycling recipe
 [*]Safe to add or remove from a save at any time
 [*]Multiplayer: install on the host or dedicated server (clients receive the results automatically)
-[/list]</Description>
+[/list]
+
+[Erios909/StationeersFertilizerRecycling](https://github.com/Erios909/StationeersFertilizerRecycling)</Description>
   <ChangeLog xsi:nil="true" />
   <WorkshopHandle>3757647404</WorkshopHandle>
   <Tags>
